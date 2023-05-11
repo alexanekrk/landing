@@ -1,0 +1,27 @@
+.footer {
+  text-align: center;
+  color: grey;
+  padding: 40px;
+}
+
+.social-media {
+  margin: 50px;
+  padding-left: 0px;
+}
+
+.social-media > li {
+  display: inline-block;
+  font-size: 30px;
+}
+
+li {
+  margin: 0 5px;
+}
+
+a {
+  color: #1ddd87;
+}
+
+#icone-heart-red {
+  color: red;
+}
